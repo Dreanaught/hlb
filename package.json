@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://dreanaught.github.io/hlb",
   "dependencies": {
+    "mobx": "^6.3.8",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
